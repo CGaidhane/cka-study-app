@@ -104,3 +104,26 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/
 fastlane/test_output/
+
+# ===========================================
+# Release binaries - DIRECT APK DISTRIBUTION
+# CRITICAL: Force-track the compiled production APK so users can install directly
+# from the repository without building.
+# ===========================================
+!release/
+!release/cka-study-app.apk
+
+# ===========================================
+# Privacy protection for asset generation
+# Raw personal profile images, headshots, or source photos placed inside
+# asset directories (used by @capacitor/assets or similar for icon/splash
+# generation) must NEVER be committed.
+# Only generic, non-personal app icon sources (e.g. assets/icon.png) are tracked.
+# ===========================================
+assets/raw/
+assets/originals/
+assets/*-source*
+assets/*-original*
+assets/*photo*
+assets/*profile*
+assets/*headshot*
