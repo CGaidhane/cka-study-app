@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CKA Study App</string>
+    <string name="title_activity_main">CKA Study App</string>
+    <string name="package_name">com.ckastudy.app</string>
+    <string name="custom_url_scheme">com.ckastudy.app</string>
+</resources>
