@@ -1,0 +1,3142 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "build.gradle",
+      "file_type": "code",
+      "source_file": "android/app/build.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "app_build",
+      "community": 16,
+      "norm_label": "build.gradle"
+    },
+    {
+      "label": "capacitor.build.gradle",
+      "file_type": "code",
+      "source_file": "android/app/capacitor.build.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "app_capacitor_build",
+      "community": 17,
+      "norm_label": "capacitor.build.gradle"
+    },
+    {
+      "label": "ExampleInstrumentedTest.java",
+      "file_type": "code",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "myapp_exampleinstrumentedtest",
+      "community": 7,
+      "norm_label": "exampleinstrumentedtest.java"
+    },
+    {
+      "label": "ExampleInstrumentedTest",
+      "file_type": "code",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "myapp_exampleinstrumentedtest_exampleinstrumentedtest",
+      "community": 7,
+      "norm_label": "exampleinstrumentedtest"
+    },
+    {
+      "label": ".useAppContext()",
+      "file_type": "code",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "myapp_exampleinstrumentedtest_exampleinstrumentedtest_useappcontext",
+      "community": 7,
+      "norm_label": ".useappcontext()"
+    },
+    {
+      "label": "Test",
+      "file_type": "code",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "android_app_src_androidtest_java_com_getcapacitor_myapp_exampleinstrumentedtest_java_test",
+      "community": 7,
+      "norm_label": "test"
+    },
+    {
+      "label": "MainActivity.java",
+      "file_type": "code",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "app_mainactivity",
+      "community": 6,
+      "norm_label": "mainactivity.java"
+    },
+    {
+      "label": "MainActivity",
+      "file_type": "code",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "app_mainactivity_mainactivity",
+      "community": 6,
+      "norm_label": "mainactivity"
+    },
+    {
+      "label": "BridgeActivity",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "bridgeactivity",
+      "community": 6,
+      "norm_label": "bridgeactivity"
+    },
+    {
+      "label": ".onCreate()",
+      "file_type": "code",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "app_mainactivity_mainactivity_oncreate",
+      "community": 6,
+      "norm_label": ".oncreate()"
+    },
+    {
+      "label": "Bundle",
+      "file_type": "code",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "bundle",
+      "community": 6,
+      "norm_label": "bundle"
+    },
+    {
+      "label": "Override",
+      "file_type": "code",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "override",
+      "community": 6,
+      "norm_label": "override"
+    },
+    {
+      "label": "ExampleUnitTest.java",
+      "file_type": "code",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "myapp_exampleunittest",
+      "community": 8,
+      "norm_label": "exampleunittest.java"
+    },
+    {
+      "label": "ExampleUnitTest",
+      "file_type": "code",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "myapp_exampleunittest_exampleunittest",
+      "community": 8,
+      "norm_label": "exampleunittest"
+    },
+    {
+      "label": ".addition_isCorrect()",
+      "file_type": "code",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "myapp_exampleunittest_exampleunittest_addition_iscorrect",
+      "community": 8,
+      "norm_label": ".addition_iscorrect()"
+    },
+    {
+      "label": "Test",
+      "file_type": "code",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "android_app_src_test_java_com_getcapacitor_myapp_exampleunittest_java_test",
+      "community": 8,
+      "norm_label": "test"
+    },
+    {
+      "label": "build.gradle",
+      "file_type": "code",
+      "source_file": "android/build.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "android_build",
+      "community": 12,
+      "norm_label": "build.gradle"
+    },
+    {
+      "label": "build.gradle",
+      "file_type": "code",
+      "source_file": "android/capacitor-cordova-android-plugins/build.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "capacitor_cordova_android_plugins_build",
+      "community": 18,
+      "norm_label": "build.gradle"
+    },
+    {
+      "label": "cordova.variables.gradle",
+      "file_type": "code",
+      "source_file": "android/capacitor-cordova-android-plugins/cordova.variables.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "capacitor_cordova_android_plugins_cordova_variables",
+      "community": 19,
+      "norm_label": "cordova.variables.gradle"
+    },
+    {
+      "label": "capacitor.settings.gradle",
+      "file_type": "code",
+      "source_file": "android/capacitor.settings.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "android_capacitor_settings",
+      "community": 13,
+      "norm_label": "capacitor.settings.gradle"
+    },
+    {
+      "label": "settings.gradle",
+      "file_type": "code",
+      "source_file": "android/settings.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "android_settings",
+      "community": 14,
+      "norm_label": "settings.gradle"
+    },
+    {
+      "label": "variables.gradle",
+      "file_type": "code",
+      "source_file": "android/variables.gradle",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "android_variables",
+      "community": 15,
+      "norm_label": "variables.gradle"
+    },
+    {
+      "label": "capacitor.config.ts",
+      "file_type": "code",
+      "source_file": "capacitor.config.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "capacitor_config",
+      "community": 11,
+      "norm_label": "capacitor.config.ts"
+    },
+    {
+      "label": "config",
+      "file_type": "code",
+      "source_file": "capacitor.config.ts",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "capacitor_config_config",
+      "community": 11,
+      "norm_label": "config"
+    },
+    {
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "eslint.config.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "eslint_config",
+      "community": 20,
+      "norm_label": "eslint.config.js"
+    },
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "package",
+      "community": 5,
+      "norm_label": "package.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "package_name",
+      "community": 5,
+      "norm_label": "name"
+    },
+    {
+      "label": "private",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "package_private",
+      "community": 5,
+      "norm_label": "private"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "package_version",
+      "community": 5,
+      "norm_label": "version"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "package_type",
+      "community": 5,
+      "norm_label": "type"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "package_scripts",
+      "community": 5,
+      "norm_label": "scripts"
+    },
+    {
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "package_scripts_dev",
+      "community": 5,
+      "norm_label": "dev"
+    },
+    {
+      "label": "build",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "package_scripts_build",
+      "community": 5,
+      "norm_label": "build"
+    },
+    {
+      "label": "lint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "package_scripts_lint",
+      "community": 5,
+      "norm_label": "lint"
+    },
+    {
+      "label": "preview",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "package_scripts_preview",
+      "community": 5,
+      "norm_label": "preview"
+    },
+    {
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "package_dependencies",
+      "community": 5,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "@capacitor/android",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "package_dependencies_capacitor_android",
+      "community": 5,
+      "norm_label": "@capacitor/android"
+    },
+    {
+      "label": "@capacitor/cli",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "package_dependencies_capacitor_cli",
+      "community": 5,
+      "norm_label": "@capacitor/cli"
+    },
+    {
+      "label": "@capacitor/core",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "package_dependencies_capacitor_core",
+      "community": 5,
+      "norm_label": "@capacitor/core"
+    },
+    {
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "package_dependencies_lucide_react",
+      "community": 5,
+      "norm_label": "lucide-react"
+    },
+    {
+      "label": "react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "package_dependencies_react",
+      "community": 5,
+      "norm_label": "react"
+    },
+    {
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "package_dependencies_react_dom",
+      "community": 5,
+      "norm_label": "react-dom"
+    },
+    {
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "package_devdependencies",
+      "community": 2,
+      "norm_label": "devdependencies"
+    },
+    {
+      "label": "@capacitor/assets",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "package_devdependencies_capacitor_assets",
+      "community": 2,
+      "norm_label": "@capacitor/assets"
+    },
+    {
+      "label": "@eslint/js",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "package_devdependencies_eslint_js",
+      "community": 2,
+      "norm_label": "@eslint/js"
+    },
+    {
+      "label": "@tailwindcss/vite",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "package_devdependencies_tailwindcss_vite",
+      "community": 2,
+      "norm_label": "@tailwindcss/vite"
+    },
+    {
+      "label": "@types/node",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "package_devdependencies_types_node",
+      "community": 2,
+      "norm_label": "@types/node"
+    },
+    {
+      "label": "@types/react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "package_devdependencies_types_react",
+      "community": 2,
+      "norm_label": "@types/react"
+    },
+    {
+      "label": "@types/react-dom",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "package_devdependencies_types_react_dom",
+      "community": 2,
+      "norm_label": "@types/react-dom"
+    },
+    {
+      "label": "@vitejs/plugin-react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "package_devdependencies_vitejs_plugin_react",
+      "community": 2,
+      "norm_label": "@vitejs/plugin-react"
+    },
+    {
+      "label": "autoprefixer",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "package_devdependencies_autoprefixer",
+      "community": 2,
+      "norm_label": "autoprefixer"
+    },
+    {
+      "label": "eslint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "package_devdependencies_eslint",
+      "community": 2,
+      "norm_label": "eslint"
+    },
+    {
+      "label": "eslint-plugin-react-hooks",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "package_devdependencies_eslint_plugin_react_hooks",
+      "community": 2,
+      "norm_label": "eslint-plugin-react-hooks"
+    },
+    {
+      "label": "eslint-plugin-react-refresh",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "package_devdependencies_eslint_plugin_react_refresh",
+      "community": 2,
+      "norm_label": "eslint-plugin-react-refresh"
+    },
+    {
+      "label": "globals",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L32",
+      "_origin": "ast",
+      "id": "package_devdependencies_globals",
+      "community": 2,
+      "norm_label": "globals"
+    },
+    {
+      "label": "postcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "package_devdependencies_postcss",
+      "community": 2,
+      "norm_label": "postcss"
+    },
+    {
+      "label": "tailwindcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "_origin": "ast",
+      "id": "package_devdependencies_tailwindcss",
+      "community": 2,
+      "norm_label": "tailwindcss"
+    },
+    {
+      "label": "typescript",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "package_devdependencies_typescript",
+      "community": 2,
+      "norm_label": "typescript"
+    },
+    {
+      "label": "typescript-eslint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "package_devdependencies_typescript_eslint",
+      "community": 2,
+      "norm_label": "typescript-eslint"
+    },
+    {
+      "label": "vite",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "_origin": "ast",
+      "id": "package_devdependencies_vite",
+      "community": 2,
+      "norm_label": "vite"
+    },
+    {
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_app",
+      "community": 0,
+      "norm_label": "app.tsx"
+    },
+    {
+      "label": "C",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "src_app_c",
+      "community": 0,
+      "norm_label": "c"
+    },
+    {
+      "label": "CAT",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "src_app_cat",
+      "community": 0,
+      "norm_label": "cat"
+    },
+    {
+      "label": "CATEGORIES",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "src_app_categories",
+      "community": 0,
+      "norm_label": "categories"
+    },
+    {
+      "label": "LEVELS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "src_app_levels",
+      "community": 0,
+      "norm_label": "levels"
+    },
+    {
+      "label": "STATUS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "src_app_status",
+      "community": 0,
+      "norm_label": "status"
+    },
+    {
+      "label": "QTYPES",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "src_app_qtypes",
+      "community": 0,
+      "norm_label": "qtypes"
+    },
+    {
+      "label": "SECTIONS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "src_app_sections",
+      "community": 0,
+      "norm_label": "sections"
+    },
+    {
+      "label": "CONCEPTS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L55",
+      "_origin": "ast",
+      "id": "src_app_concepts",
+      "community": 0,
+      "norm_label": "concepts"
+    },
+    {
+      "label": "CMD_CATS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L347",
+      "_origin": "ast",
+      "id": "src_app_cmd_cats",
+      "community": 0,
+      "norm_label": "cmd_cats"
+    },
+    {
+      "label": "CMD_CAT_COLOR",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L348",
+      "_origin": "ast",
+      "id": "src_app_cmd_cat_color",
+      "community": 0,
+      "norm_label": "cmd_cat_color"
+    },
+    {
+      "label": "COMMANDS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L353",
+      "_origin": "ast",
+      "id": "src_app_commands",
+      "community": 0,
+      "norm_label": "commands"
+    },
+    {
+      "label": "YAML",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L428",
+      "_origin": "ast",
+      "id": "src_app_yaml",
+      "community": 0,
+      "norm_label": "yaml"
+    },
+    {
+      "label": "TRAPS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L569",
+      "_origin": "ast",
+      "id": "src_app_traps",
+      "community": 0,
+      "norm_label": "traps"
+    },
+    {
+      "label": "QUIZ",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L642",
+      "_origin": "ast",
+      "id": "src_app_quiz",
+      "community": 0,
+      "norm_label": "quiz"
+    },
+    {
+      "label": "CRAM",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L686",
+      "_origin": "ast",
+      "id": "src_app_cram",
+      "community": 0,
+      "norm_label": "cram"
+    },
+    {
+      "label": "REV_CMDS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L725",
+      "_origin": "ast",
+      "id": "src_app_rev_cmds",
+      "community": 0,
+      "norm_label": "rev_cmds"
+    },
+    {
+      "label": "REV_DIFFS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L745",
+      "_origin": "ast",
+      "id": "src_app_rev_diffs",
+      "community": 0,
+      "norm_label": "rev_diffs"
+    },
+    {
+      "label": "REV_HOOKS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L763",
+      "_origin": "ast",
+      "id": "src_app_rev_hooks",
+      "community": 0,
+      "norm_label": "rev_hooks"
+    },
+    {
+      "label": "REV_INTERVIEW",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L777",
+      "_origin": "ast",
+      "id": "src_app_rev_interview",
+      "community": 0,
+      "norm_label": "rev_interview"
+    },
+    {
+      "label": "REV_SEQ",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L789",
+      "_origin": "ast",
+      "id": "src_app_rev_seq",
+      "community": 0,
+      "norm_label": "rev_seq"
+    },
+    {
+      "label": "DEFAULT",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L799",
+      "_origin": "ast",
+      "id": "src_app_default",
+      "community": 0,
+      "norm_label": "default"
+    },
+    {
+      "label": "loadProgress()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L800",
+      "_origin": "ast",
+      "id": "src_app_loadprogress",
+      "community": 0,
+      "norm_label": "loadprogress()"
+    },
+    {
+      "label": "saveProgress()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L807",
+      "_origin": "ast",
+      "id": "src_app_saveprogress",
+      "community": 0,
+      "norm_label": "saveprogress()"
+    },
+    {
+      "label": "loadMuted()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L808",
+      "_origin": "ast",
+      "id": "src_app_loadmuted",
+      "community": 0,
+      "norm_label": "loadmuted()"
+    },
+    {
+      "label": "saveMuted()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L809",
+      "_origin": "ast",
+      "id": "src_app_savemuted",
+      "community": 0,
+      "norm_label": "savemuted()"
+    },
+    {
+      "label": "useFx()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L812",
+      "_origin": "ast",
+      "id": "src_app_usefx",
+      "community": 9,
+      "norm_label": "usefx()"
+    },
+    {
+      "label": "Collapse()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L853",
+      "_origin": "ast",
+      "id": "src_app_collapse",
+      "community": 0,
+      "norm_label": "collapse()"
+    },
+    {
+      "label": "Ring()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L860",
+      "_origin": "ast",
+      "id": "src_app_ring",
+      "community": 0,
+      "norm_label": "ring()"
+    },
+    {
+      "label": "Bar()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L874",
+      "_origin": "ast",
+      "id": "src_app_bar",
+      "community": 0,
+      "norm_label": "bar()"
+    },
+    {
+      "label": "Chip()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L878",
+      "_origin": "ast",
+      "id": "src_app_chip",
+      "community": 0,
+      "norm_label": "chip()"
+    },
+    {
+      "label": "LevelBadge()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L883",
+      "_origin": "ast",
+      "id": "src_app_levelbadge",
+      "community": 0,
+      "norm_label": "levelbadge()"
+    },
+    {
+      "label": "Lbl()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L887",
+      "_origin": "ast",
+      "id": "src_app_lbl",
+      "community": 0,
+      "norm_label": "lbl()"
+    },
+    {
+      "label": "Field()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L888",
+      "_origin": "ast",
+      "id": "src_app_field",
+      "community": 0,
+      "norm_label": "field()"
+    },
+    {
+      "label": "Code()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L889",
+      "_origin": "ast",
+      "id": "src_app_code",
+      "community": 0,
+      "norm_label": "code()"
+    },
+    {
+      "label": "Callout()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L890",
+      "_origin": "ast",
+      "id": "src_app_callout",
+      "community": 0,
+      "norm_label": "callout()"
+    },
+    {
+      "label": "CopyBtn()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L895",
+      "_origin": "ast",
+      "id": "src_app_copybtn",
+      "community": 0,
+      "norm_label": "copybtn()"
+    },
+    {
+      "label": "StatusBtn()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L901",
+      "_origin": "ast",
+      "id": "src_app_statusbtn",
+      "community": 0,
+      "norm_label": "statusbtn()"
+    },
+    {
+      "label": "Stat()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L905",
+      "_origin": "ast",
+      "id": "src_app_stat",
+      "community": 0,
+      "norm_label": "stat()"
+    },
+    {
+      "label": "Footer()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L911",
+      "_origin": "ast",
+      "id": "src_app_footer",
+      "community": 0,
+      "norm_label": "footer()"
+    },
+    {
+      "label": "micro()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L912",
+      "_origin": "ast",
+      "id": "src_app_micro",
+      "community": 9,
+      "norm_label": "micro()"
+    },
+    {
+      "label": "BLOCKS",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L913",
+      "_origin": "ast",
+      "id": "src_app_blocks",
+      "community": 0,
+      "norm_label": "blocks"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L921",
+      "_origin": "ast",
+      "id": "src_app_app",
+      "community": 9,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "src/main.tsx",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_main",
+      "community": 0,
+      "norm_label": "main.tsx"
+    },
+    {
+      "label": "tsconfig.app.json",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tsconfig_app",
+      "community": 1,
+      "norm_label": "tsconfig.app.json"
+    },
+    {
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions",
+      "community": 1,
+      "norm_label": "compileroptions"
+    },
+    {
+      "label": "tsBuildInfoFile",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_tsbuildinfofile",
+      "community": 1,
+      "norm_label": "tsbuildinfofile"
+    },
+    {
+      "label": "target",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_target",
+      "community": 1,
+      "norm_label": "target"
+    },
+    {
+      "label": "lib",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_lib",
+      "community": 1,
+      "norm_label": "lib"
+    },
+    {
+      "label": "module",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_module",
+      "community": 1,
+      "norm_label": "module"
+    },
+    {
+      "label": "types",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_types",
+      "community": 1,
+      "norm_label": "types"
+    },
+    {
+      "label": "skipLibCheck",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_skiplibcheck",
+      "community": 1,
+      "norm_label": "skiplibcheck"
+    },
+    {
+      "label": "moduleResolution",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_moduleresolution",
+      "community": 1,
+      "norm_label": "moduleresolution"
+    },
+    {
+      "label": "allowImportingTsExtensions",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_allowimportingtsextensions",
+      "community": 1,
+      "norm_label": "allowimportingtsextensions"
+    },
+    {
+      "label": "verbatimModuleSyntax",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_verbatimmodulesyntax",
+      "community": 1,
+      "norm_label": "verbatimmodulesyntax"
+    },
+    {
+      "label": "moduleDetection",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_moduledetection",
+      "community": 1,
+      "norm_label": "moduledetection"
+    },
+    {
+      "label": "noEmit",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_noemit",
+      "community": 1,
+      "norm_label": "noemit"
+    },
+    {
+      "label": "jsx",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_jsx",
+      "community": 1,
+      "norm_label": "jsx"
+    },
+    {
+      "label": "noUnusedLocals",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_nounusedlocals",
+      "community": 1,
+      "norm_label": "nounusedlocals"
+    },
+    {
+      "label": "noUnusedParameters",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_nounusedparameters",
+      "community": 1,
+      "norm_label": "nounusedparameters"
+    },
+    {
+      "label": "erasableSyntaxOnly",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_erasablesyntaxonly",
+      "community": 1,
+      "norm_label": "erasablesyntaxonly"
+    },
+    {
+      "label": "noFallthroughCasesInSwitch",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "tsconfig_app_compileroptions_nofallthroughcasesinswitch",
+      "community": 1,
+      "norm_label": "nofallthroughcasesinswitch"
+    },
+    {
+      "label": "include",
+      "file_type": "code",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "tsconfig_app_include",
+      "community": 1,
+      "norm_label": "include"
+    },
+    {
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tsconfig",
+      "community": 10,
+      "norm_label": "tsconfig.json"
+    },
+    {
+      "label": "files",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "tsconfig_files",
+      "community": 10,
+      "norm_label": "files"
+    },
+    {
+      "label": "references",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "tsconfig_references",
+      "community": 10,
+      "norm_label": "references"
+    },
+    {
+      "label": "tsconfig.node.json",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tsconfig_node",
+      "community": 4,
+      "norm_label": "tsconfig.node.json"
+    },
+    {
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions",
+      "community": 4,
+      "norm_label": "compileroptions"
+    },
+    {
+      "label": "tsBuildInfoFile",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_tsbuildinfofile",
+      "community": 4,
+      "norm_label": "tsbuildinfofile"
+    },
+    {
+      "label": "target",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_target",
+      "community": 4,
+      "norm_label": "target"
+    },
+    {
+      "label": "lib",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_lib",
+      "community": 4,
+      "norm_label": "lib"
+    },
+    {
+      "label": "module",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_module",
+      "community": 4,
+      "norm_label": "module"
+    },
+    {
+      "label": "types",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_types",
+      "community": 4,
+      "norm_label": "types"
+    },
+    {
+      "label": "skipLibCheck",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_skiplibcheck",
+      "community": 4,
+      "norm_label": "skiplibcheck"
+    },
+    {
+      "label": "moduleResolution",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_moduleresolution",
+      "community": 4,
+      "norm_label": "moduleresolution"
+    },
+    {
+      "label": "allowImportingTsExtensions",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_allowimportingtsextensions",
+      "community": 4,
+      "norm_label": "allowimportingtsextensions"
+    },
+    {
+      "label": "verbatimModuleSyntax",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "community": 4,
+      "norm_label": "verbatimmodulesyntax"
+    },
+    {
+      "label": "moduleDetection",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_moduledetection",
+      "community": 4,
+      "norm_label": "moduledetection"
+    },
+    {
+      "label": "noEmit",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_noemit",
+      "community": 4,
+      "norm_label": "noemit"
+    },
+    {
+      "label": "noUnusedLocals",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_nounusedlocals",
+      "community": 4,
+      "norm_label": "nounusedlocals"
+    },
+    {
+      "label": "noUnusedParameters",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_nounusedparameters",
+      "community": 4,
+      "norm_label": "nounusedparameters"
+    },
+    {
+      "label": "erasableSyntaxOnly",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_erasablesyntaxonly",
+      "community": 4,
+      "norm_label": "erasablesyntaxonly"
+    },
+    {
+      "label": "noFallthroughCasesInSwitch",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "tsconfig_node_compileroptions_nofallthroughcasesinswitch",
+      "community": 4,
+      "norm_label": "nofallthroughcasesinswitch"
+    },
+    {
+      "label": "include",
+      "file_type": "code",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "tsconfig_node_include",
+      "community": 4,
+      "norm_label": "include"
+    },
+    {
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "vite.config.ts",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "vite_config",
+      "community": 21,
+      "norm_label": "vite.config.ts"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 3,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Certified Kubernetes Administrator (CKA) Interactive Study & DevOps Lab App",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "community": 3,
+      "norm_label": "certified kubernetes administrator (cka) interactive study & devops lab app"
+    },
+    {
+      "label": "\ud83d\udcf1 Direct APK Installation (Recommended for Mobile)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "readme_direct_apk_installation_recommended_for_mobile",
+      "community": 3,
+      "norm_label": "\ud83d\udcf1 direct apk installation (recommended for mobile)"
+    },
+    {
+      "label": "\u2728 Premium Native Features",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "readme_premium_native_features",
+      "community": 3,
+      "norm_label": "\u2728 premium native features"
+    },
+    {
+      "label": "1. Self-Contained Web Audio Engine",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "readme_1_self_contained_web_audio_engine",
+      "community": 3,
+      "norm_label": "1. self-contained web audio engine"
+    },
+    {
+      "label": "2. Native Device Haptic Feedback",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "readme_2_native_device_haptic_feedback",
+      "community": 3,
+      "norm_label": "2. native device haptic feedback"
+    },
+    {
+      "label": "3. Robust Permanent State Synchronization",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "_origin": "ast",
+      "id": "readme_3_robust_permanent_state_synchronization",
+      "community": 3,
+      "norm_label": "3. robust permanent state synchronization"
+    },
+    {
+      "label": "\ud83c\udfaf What Makes This App Different",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "_origin": "ast",
+      "id": "readme_what_makes_this_app_different",
+      "community": 3,
+      "norm_label": "\ud83c\udfaf what makes this app different"
+    },
+    {
+      "label": "\ud83d\udee0 Local Development & Build Guide",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L88",
+      "_origin": "ast",
+      "id": "readme_local_development_build_guide",
+      "community": 3,
+      "norm_label": "\ud83d\udee0 local development & build guide"
+    },
+    {
+      "label": "Prerequisites",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L90",
+      "_origin": "ast",
+      "id": "readme_prerequisites",
+      "community": 3,
+      "norm_label": "prerequisites"
+    },
+    {
+      "label": "Standard Deployment Steps",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L95",
+      "_origin": "ast",
+      "id": "readme_standard_deployment_steps",
+      "community": 3,
+      "norm_label": "standard deployment steps"
+    },
+    {
+      "label": "Quick Web Preview (during content work)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L116",
+      "_origin": "ast",
+      "id": "readme_quick_web_preview_during_content_work",
+      "community": 3,
+      "norm_label": "quick web preview (during content work)"
+    },
+    {
+      "label": "Production Web Build Only",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L122",
+      "_origin": "ast",
+      "id": "readme_production_web_build_only",
+      "community": 3,
+      "norm_label": "production web build only"
+    },
+    {
+      "label": "Tech Stack",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L131",
+      "_origin": "ast",
+      "id": "readme_tech_stack",
+      "community": 3,
+      "norm_label": "tech stack"
+    },
+    {
+      "label": "Project Structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L146",
+      "_origin": "ast",
+      "id": "readme_project_structure",
+      "community": 3,
+      "norm_label": "project structure"
+    },
+    {
+      "label": "Persistence & Privacy Notes",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L172",
+      "_origin": "ast",
+      "id": "readme_persistence_privacy_notes",
+      "community": 3,
+      "norm_label": "persistence & privacy notes"
+    },
+    {
+      "label": "Contributing",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L180",
+      "_origin": "ast",
+      "id": "readme_contributing",
+      "community": 3,
+      "norm_label": "contributing"
+    },
+    {
+      "label": "License",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L188",
+      "_origin": "ast",
+      "id": "readme_license",
+      "community": 3,
+      "norm_label": "license"
+    }
+  ],
+  "links": [
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "myapp_exampleinstrumentedtest",
+      "target": "android_app_src_androidtest_java_com_getcapacitor_myapp_exampleinstrumentedtest_java_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "myapp_exampleinstrumentedtest",
+      "target": "myapp_exampleinstrumentedtest_exampleinstrumentedtest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "myapp_exampleinstrumentedtest_exampleinstrumentedtest",
+      "target": "myapp_exampleinstrumentedtest_exampleinstrumentedtest_useappcontext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "attribute",
+      "source": "myapp_exampleinstrumentedtest_exampleinstrumentedtest_useappcontext",
+      "target": "android_app_src_androidtest_java_com_getcapacitor_myapp_exampleinstrumentedtest_java_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "app_mainactivity",
+      "target": "app_mainactivity_mainactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "app_mainactivity",
+      "target": "bridgeactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_mainactivity",
+      "target": "bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "app_mainactivity_mainactivity",
+      "target": "app_mainactivity_mainactivity_oncreate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "app_mainactivity_mainactivity",
+      "target": "bridgeactivity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "app_mainactivity_mainactivity_oncreate",
+      "target": "bundle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/main/java/com/ckastudy/app/MainActivity.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "context": "attribute",
+      "source": "app_mainactivity_mainactivity_oncreate",
+      "target": "override",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "myapp_exampleunittest",
+      "target": "android_app_src_test_java_com_getcapacitor_myapp_exampleunittest_java_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "myapp_exampleunittest",
+      "target": "myapp_exampleunittest_exampleunittest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "myapp_exampleunittest_exampleunittest",
+      "target": "myapp_exampleunittest_exampleunittest_addition_iscorrect",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "attribute",
+      "source": "myapp_exampleunittest_exampleunittest_addition_iscorrect",
+      "target": "android_app_src_test_java_com_getcapacitor_myapp_exampleunittest_java_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "capacitor.config.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "capacitor_config",
+      "target": "capacitor_config_config",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_devdependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_private",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "package_scripts",
+      "target": "package_scripts_build",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "package_scripts",
+      "target": "package_scripts_dev",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "package_scripts",
+      "target": "package_scripts_lint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "package_scripts",
+      "target": "package_scripts_preview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_capacitor_android",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_capacitor_cli",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_capacitor_core",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_lucide_react",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_react",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_react_dom",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_autoprefixer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_capacitor_assets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_eslint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_eslint_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_eslint_plugin_react_hooks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_eslint_plugin_react_refresh",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_globals",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_postcss",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_tailwindcss",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_tailwindcss_vite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_types_node",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_types_react",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_types_react_dom",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_typescript",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_typescript_eslint",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_vite",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_vitejs_plugin_react",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L921",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L874",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_bar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L913",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_blocks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_c",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L890",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_callout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_cat",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_categories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L878",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_chip",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L348",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_cmd_cat_color",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L347",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_cmd_cats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L889",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_code",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L853",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_collapse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L353",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_commands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_concepts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L895",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_copybtn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L686",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_cram",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L799",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_default",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L888",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_field",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L911",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_footer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L887",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_lbl",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L883",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_levelbadge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_levels",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L808",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_loadmuted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L800",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_loadprogress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L912",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_micro",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_qtypes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L642",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_quiz",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L725",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_rev_cmds",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L745",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_rev_diffs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L763",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_rev_hooks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L777",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_rev_interview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L789",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_rev_seq",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L860",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_ring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L809",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_savemuted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L807",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_saveprogress",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_sections",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L905",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_stat",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L901",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_statusbtn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L569",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_traps",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L812",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_usefx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L428",
+      "weight": 1.0,
+      "source": "src_app",
+      "target": "src_app_yaml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_main",
+      "target": "src_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L931",
+      "weight": 1.0,
+      "source": "src_app_app",
+      "target": "src_app_usefx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L1366",
+      "weight": 1.0,
+      "source": "src_app_app",
+      "target": "src_app_micro",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tsconfig_app",
+      "target": "tsconfig_app_compileroptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "tsconfig_app",
+      "target": "tsconfig_app_include",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_allowimportingtsextensions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_erasablesyntaxonly",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_lib",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_module",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_moduledetection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_moduleresolution",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_noemit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_nofallthroughcasesinswitch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_nounusedlocals",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_nounusedparameters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_skiplibcheck",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_target",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_tsbuildinfofile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.app.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "tsconfig_app_compileroptions",
+      "target": "tsconfig_app_compileroptions_verbatimmodulesyntax",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tsconfig",
+      "target": "tsconfig_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tsconfig",
+      "target": "tsconfig_references",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tsconfig_node",
+      "target": "tsconfig_node_compileroptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tsconfig_node",
+      "target": "tsconfig_node_include",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_allowimportingtsextensions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_erasablesyntaxonly",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_lib",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_module",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_moduledetection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_moduleresolution",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_noemit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_nofallthroughcasesinswitch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_nounusedlocals",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_nounusedparameters",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_skiplibcheck",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_target",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_tsbuildinfofile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_types",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.node.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "tsconfig_node_compileroptions",
+      "target": "tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme",
+      "target": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L180",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_contributing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_direct_apk_installation_recommended_for_mobile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_license",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_local_development_build_guide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_persistence_privacy_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_premium_native_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_project_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_tech_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "readme_certified_kubernetes_administrator_cka_interactive_study_devops_lab_app",
+      "target": "readme_what_makes_this_app_different",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "readme_premium_native_features",
+      "target": "readme_1_self_contained_web_audio_engine",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "readme_premium_native_features",
+      "target": "readme_2_native_device_haptic_feedback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "readme_premium_native_features",
+      "target": "readme_3_robust_permanent_state_synchronization",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "readme_local_development_build_guide",
+      "target": "readme_prerequisites",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "readme_local_development_build_guide",
+      "target": "readme_production_web_build_only",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "readme_local_development_build_guide",
+      "target": "readme_quick_web_preview_during_content_work",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "readme_local_development_build_guide",
+      "target": "readme_standard_deployment_steps",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "2a05ab1a4d5cd181d9bff864938281f512aaad03"
+}
